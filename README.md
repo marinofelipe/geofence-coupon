@@ -1,5 +1,5 @@
 # geofence-coupon
-Adding custom locations for simulator and send a notifications when user enters business region
+Simple Coursera course app which adds custom locations for simulator and send notifications when user enters a region
 
 ### Simulating Locations
 Create a GPX file with the route to be simulated.
